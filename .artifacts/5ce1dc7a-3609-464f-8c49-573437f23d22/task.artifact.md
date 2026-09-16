@@ -1,0 +1,7 @@
+- [x] Update `pubspec.yaml` project name
+- [x] Update imports in `lib/` and `test/`
+- [x] Update Android configuration (build.gradle, Manifest, MainActivity)
+- [x] Update iOS configuration (Info.plist)
+- [x] Update IDE files (.idea/modules.xml and .iml)
+- [x] Move Android package directory
+- [x] Verify changes (Imports and configuration files updated)

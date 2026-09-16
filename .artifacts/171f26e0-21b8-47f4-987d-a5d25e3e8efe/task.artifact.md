@@ -1,0 +1,4 @@
+- `[x]` Update `ApiService` and `UserRepository` for user pagination
+- `[x]` Update `HomeController` to fetch users
+- `[x]` Add "Top Users" section to `HomeScreen`
+- `[x]` Fix user count display in `UserScreen`

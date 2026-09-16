@@ -1,0 +1,3 @@
+- `[x]` Update `home_screen.dart` to include background images in the banner slider
+- `[x]` Implement gradient overlay for text legibility
+- `[x]` Verify banner UI and functionality
